@@ -1,0 +1,67 @@
+
+
+  tbody tr th:hover{
+  background-color:#f5f555;
+  }
+    
+  tbody tr td:hover{
+  background-color:#558f8f;
+  }
+
+  .box{
+    position: relative;
+    margin: auto;
+    display: block;
+    margin-top: 5%;
+    width: 600px;
+    height: 420px;
+  }
+   
+  
+  .glav{
+    position: absolute;
+    top: 5%;
+    left: 16.5%;
+    width: 67%;
+    height: 90%;
+    background: #000000;
+    border-radius: 50%;
+  }
+
+  .bellcr{
+    position: absolute;
+    top: 11%;
+    left: 11%;
+    width: 78%;
+    height: 78%;
+    background: #ffffff;
+    border-radius: 50%;
+  }
+
+  .chercentr{
+    position: absolute;
+    top: 25%;
+    left: 25%;
+    width: 50%;
+    height: 50%;
+    background: #000000;
+    border-radius: 50%;
+  }
+
+  .pram1{
+    position: absolute;
+    top: 48%;
+    left: 10%;
+    width: 80%;
+    height: 4%;
+    background: #000000;
+  }
+
+  .pram2{
+    position: absolute;
+    top: 0.5%;
+    left: 48.5%;
+    width: 3%;
+    height: 99%;
+    background: #000000;
+  }
